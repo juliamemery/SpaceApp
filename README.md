@@ -2,6 +2,8 @@
 ## Using the NASA Open APIs
 NASA's APOD (Astronomical Picture of the Day) provides users with superb pictures of our universe daily. This app allows those users to easily access these images from a mobile context. 
 
+**NOTE:** To use application, user must obtain API key from [NASA](https://api.nasa.gov/) and populate URI with key.
+
 Although this is a simple application, it demonstrates the basic principles of: 
 - Android Activity Lifecycle
 - Model View Controller design pattern
